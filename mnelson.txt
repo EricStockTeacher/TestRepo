@@ -1,4 +1,4 @@
 Hello everyone
-Today is Monday.  It is raining out!
+Today is Mon Nov 17, 2025.  It is raining out!
 Today we are learning git/github
 have a great week
